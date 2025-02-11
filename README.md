@@ -21,8 +21,12 @@ cd CQRS-with-MediatR-in-Clean-Architecture-ASP.NET-Core-API
 dotnet restore
 dotnet run
 
+---
 
-## 📂 Project Structure
+
+
+
+### 📂 Project Structure
 
 📦 MovieApp
 ├── 📁 App.API              # API Layer (Controllers, Swagger, Dependency Injection)
@@ -48,7 +52,12 @@ dotnet run
 
 └── MovieApp.sln           # .NET Solution File
 
-🚀 Features
+
+---
+
+
+
+## 🚀 Features
 ✅ CQRS Pattern with MediatR
 ✅ Unit of Work & Repository Pattern
 ✅ EF Core for Database Access
