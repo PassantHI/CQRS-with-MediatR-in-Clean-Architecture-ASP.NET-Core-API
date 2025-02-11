@@ -21,6 +21,8 @@ cd CQRS-with-MediatR-in-Clean-Architecture-ASP.NET-Core-API
 dotnet restore
 dotnet run
 
+---
+
 ## 📂 Project Structure
 
 📦 MovieApp
