@@ -12,7 +12,7 @@
 
 ---
 
-## 🔧 Installation  
+### 🔧 Installation  
 To set up this project locally, follow these steps:  
 
 ```bash
@@ -20,13 +20,11 @@ git clone https://github.com/PassantHI/CQRS-with-MediatR-in-Clean-Architecture-A
 cd CQRS-with-MediatR-in-Clean-Architecture-ASP.NET-Core-API
 dotnet restore
 dotnet run
+```
 
 ---
 
-
-
-
-### 📂 Project Structure
+###Project Structure
 
 📦 MovieApp
 ├── 📁 App.API              # API Layer (Controllers, Swagger, Dependency Injection)
@@ -57,7 +55,7 @@ dotnet run
 
 
 
-## 🚀 Features
+### 🚀 Features
 ✅ CQRS Pattern with MediatR
 ✅ Unit of Work & Repository Pattern
 ✅ EF Core for Database Access
