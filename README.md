@@ -16,7 +16,7 @@
 To set up this project locally, follow these steps:  
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+git clone https://github.com/PassantHI/CQRS-with-MediatR-in-Clean-Architecture-ASP.NET-Core-API.git
+cd CQRS-with-MediatR-in-Clean-Architecture-ASP.NET-Core-API
 dotnet restore
 dotnet run
