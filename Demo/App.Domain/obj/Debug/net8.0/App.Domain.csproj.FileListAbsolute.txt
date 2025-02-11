@@ -1,0 +1,11 @@
+E:\movieProj\Demo\App.Domain\bin\Debug\net8.0\App.Domain.deps.json
+E:\movieProj\Demo\App.Domain\bin\Debug\net8.0\App.Domain.dll
+E:\movieProj\Demo\App.Domain\bin\Debug\net8.0\App.Domain.pdb
+E:\movieProj\Demo\App.Domain\obj\Debug\net8.0\App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\movieProj\Demo\App.Domain\obj\Debug\net8.0\App.Domain.AssemblyInfoInputs.cache
+E:\movieProj\Demo\App.Domain\obj\Debug\net8.0\App.Domain.AssemblyInfo.cs
+E:\movieProj\Demo\App.Domain\obj\Debug\net8.0\App.Domain.csproj.CoreCompileInputs.cache
+E:\movieProj\Demo\App.Domain\obj\Debug\net8.0\App.Domain.dll
+E:\movieProj\Demo\App.Domain\obj\Debug\net8.0\refint\App.Domain.dll
+E:\movieProj\Demo\App.Domain\obj\Debug\net8.0\App.Domain.pdb
+E:\movieProj\Demo\App.Domain\obj\Debug\net8.0\ref\App.Domain.dll
