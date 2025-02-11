@@ -64,6 +64,21 @@ dotnet run
 ### ✅ Clean Architecture Principles
 
 
+## 📜 API Endpoints 
+
+| HTTP Method | Endpoint | Description |
+|------------|---------|-------------|
+| `GET`      | `/api/Movie/{id}` | Get a movie by ID |
+| `POST`     | `/api/Movie` | Add a new movie |
+| `PUT`      | `/api/Movie` | Update a movie |
+| `DELETE`   | `/api/Movie/{id}` | Delete a movie |
+| `GET`      | `/api/Movie/Search/{Keyword}` | Search Using name |
+| `GET`      | `/api/Movie/{genre}` | Filter Movies by genres |
+| `GET`      | `/api/Movie/Rate/{N}` | Filter TopRated Movies |
+
+
+
+
 
 
 
