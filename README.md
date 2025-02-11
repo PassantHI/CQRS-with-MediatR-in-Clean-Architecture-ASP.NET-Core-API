@@ -91,9 +91,19 @@ dotnet run
 --- 
 
 | HTTP Method | Endpoint | Description |
+|------------|---------|-------------|
 | `POST`     | `/api/auth/register` | Register a new user |
 | `POST`     | `/api/auth/login` | User login |
 | `POST`     | `/api/auth/confirm-email` | Confirm user email |
+
+--- 
+
+## 📌 Technologies Used
+### ASP.NET Core 🚀
+### Entity Framework Core 🗄️
+### MediatR for CQRS 🔀
+### FluentValidation for Validation ✅
+### Swagger for API Docs 📖
 
 
 
