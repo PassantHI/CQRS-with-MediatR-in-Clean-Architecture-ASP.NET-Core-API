@@ -63,6 +63,8 @@ dotnet run
 ### ✅ EF Core for Database Access
 ### ✅ Clean Architecture Principles
 
+---
+
 
 ## 📜 API Endpoints 
 
@@ -75,6 +77,23 @@ dotnet run
 | `GET`      | `/api/Movie/Search/{Keyword}` | Search Using name |
 | `GET`      | `/api/Movie/{genre}` | Filter Movies by genres |
 | `GET`      | `/api/Movie/Rate/{N}` | Filter TopRated Movies |
+
+---
+
+| HTTP Method | Endpoint | Description |
+|------------|---------|-------------|
+|`GET`      | `/api/Genre/{id}` | Get a genre by ID |
+| `GET`      | `/api/Genre` | Get all genres |
+| `POST`     | `/api/Genre` | Add a new genre |
+| `PUT`      | `/api/Genre` | Update a genre |
+| `DELETE`   | `/api/Genre/{id}` | Delete a genre |
+
+--- 
+
+| HTTP Method | Endpoint | Description |
+| `POST`     | `/api/auth/register` | Register a new user |
+| `POST`     | `/api/auth/login` | User login |
+| `POST`     | `/api/auth/confirm-email` | Confirm user email |
 
 
 
