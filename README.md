@@ -12,7 +12,7 @@
 
 ---
 
-### 🔧 Installation  
+## 🔧 Installation  
 To set up this project locally, follow these steps:  
 
 ```bash
@@ -24,8 +24,9 @@ dotnet run
 
 ---
 
-###Project Structure
+## 📁 Project Structure
 
+```bash
 📦 MovieApp
 ├── 📁 App.API              # API Layer (Controllers, Swagger, Dependency Injection)
 │   ├── 📁 Controllers      # API Endpoints
@@ -49,17 +50,18 @@ dotnet run
 │
 
 └── MovieApp.sln           # .NET Solution File
-
+```
 
 ---
 
 
 
-### 🚀 Features
-✅ CQRS Pattern with MediatR
-✅ Unit of Work & Repository Pattern
-✅ EF Core for Database Access
-✅ Clean Architecture Principles
+## 🚀 Features
+
+### ✅ CQRS Pattern with MediatR
+### ✅ Unit of Work & Repository Pattern
+### ✅ EF Core for Database Access
+### ✅ Clean Architecture Principles
 
 
 
